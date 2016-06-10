@@ -1,0 +1,164 @@
+<!-- Start Full Width Section 1 -->
+        	<div class="section" style="padding-top:60px; padding-bottom:30px; border-top:0; border-bottom:0; background:#fff">
+            	<div class="container">
+
+                    <!-- Start Services Icons -->
+                	<div class="row">
+                    
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
+                            <div class="service-icon">
+                              <img src="items/viruses/Images/xviruses_thumb_smaller.png.pagespeed.ic.1k7PdS8e38.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>No need of Antivirus</h4>
+                                <p>  If your computer shuts itself  don't understand. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+                        
+                        <!-- Start Service Icon 2 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
+                            <div class="service-icon">
+                                <img src="images/security.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Security </h4>
+                                <p>Recently, there was a scare it been updated. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 2 -->
+                        
+                        <!-- Start Service Icon 3 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
+                            <div class="service-icon">
+                                <img src="items/dollars/Images/xdollars_thumb_smaller.png.pagespeed.ic.uIa4GVdPya.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Free & Customizable </h4>
+                                <p>This stems from the deskto it's wrong to confine flexibility to the desktop alone. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 3 -->
+                        
+                        <!-- Start Service Icon 4 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="04">
+                            <div class="service-icon">
+                                <img src="items/freedom/Images/xfreedom_thumb_smaller.png.pagespeed.ic.C3yDbsVt4c.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Freedom </h4>
+                                <p> Really, all I sge management.about this is that Windows does no package <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 4 -->
+    
+                        
+                        <!-- Start Service Icon 6 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="05">
+                            <div class="service-icon">
+                                <img src="items/drivers/Images/xdrivers_thumb_smaller.png.pagespeed.ic.kuMSvthgAF.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Forget about drivers </h4>
+                                <p>About the only communi icrosoft campus. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 6 -->
+                        
+                        <!-- Start Service Icon 7 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="06">
+                            <div class="service-icon">
+                                <img src="items/search_software/Images/xsearch_software_thumb_smaller.png.pagespeed.ic.-WvYdBKjak.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Easy Package Manager</h4>
+                                <p>Duis aute irur sse cillum dolore eu fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 7 -->
+                        
+                        <!-- Start Service Icon 7 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="07">
+                            <div class="service-icon">
+                                <img src="items/window_managers/Images/xwindow_managers_thumb_smaller.png.pagespeed.ic.P9lAUtJsSW.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Choose your desktop</h4>
+                                <p>Duis aut m dolore eu fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 7 -->
+
+
+                        <!-- Start Service Icon 8 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="08">
+                            <div class="service-icon">
+                                <img src="items/virtual_desktops/Images/xvirtual_desktops_thumb_smaller.png.pagespeed.ic.iC7uZtcVU5.jpg" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Too many windows? Use workspaces. </h4>
+                                <p>Duis aute irure dolor u fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 8 -->
+
+                        <!-- Start Service Icon 7 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="09">
+                            <div class="service-icon">
+                                <img src="items/old_and_sluggish/Images/xold_and_sluggish_thumb_smaller.png.pagespeed.ic.wo0Vw3qBoc.png" alt="">
+                             </div>
+                            <div class="service-content">
+                                <h4>Why does your Windows get slower day after day?</h4>
+                                <p>Duis aute lore eu fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 7 -->
+
+   
+                        <!-- Start Service Icon 7 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="10">
+                            <div class="service-icon">
+                                <img src="items/spatial_desktop/Images/xspatial_desktop_thumb_smaller.png.pagespeed.ic.-YymYL65SJ.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Next generation of desktops</h4>
+                                <p>Duis aute ir dolore eu fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 7 -->
+
+
+                    <!-- Start Service Icon 5 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="11">
+                            <div class="service-icon">
+                                <img src="images/fast.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Fast & Light OS</h4>
+                                <p>Duis aute iruu fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 5 -->
+    
+                        <!-- Start Service Icon 8 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="12">
+                            <div class="service-icon">
+                                <i class="icon-lifebuoy icon-medium"></i>
+                            </div>
+                            <div class="service-content">
+                                <h4>Help & Support</h4>
+                                <p>Duis aute irure dolor u fugiat Lorem pariatur <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                            </div>
+                        </div>
+                        <!-- End Service Icon 8 -->
+
+                    
+                    </div>
+                    <!-- End Services Icons -->
+                    
+                </div>
+            </div>
+            <!-- End Full Width Section 1 -->  
+         

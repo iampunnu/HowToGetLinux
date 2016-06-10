@@ -1,0 +1,157 @@
+<?php
+ $title_index = " Get Linux | Why Linux is better ";
+ require('header.php');
+ require('Style.css');
+ ?>
+  
+  <div class="hr1" style="margin-bottom:80px;"></div>
+  <?php require('fullWidthSection1.php');?>
+  
+  
+  
+  
+  
+  
+  
+  <!-- Start Full Width Section 1 -->
+        	<div class="section" style="padding-top:60px; padding-bottom:30px; border-top:0; border-bottom:0; background:#fff">
+            	<div class="container">
+
+                    <!-- Start Services Icons -->
+                	<div class="row">
+                	
+                	
+                	
+                    
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="12">
+                            <div class="service-icon">
+                              <img src="items/stability/Images/xstability_thumb_smaller.png.pagespeed.ic.tH4DvLPaRa.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4> Is your system unstable? </h4>
+                                <p>  If your computer shuts itself  don't understand. 
+                                <a href="Discription/SystemUnstable.php">read more</a>
+                                </p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+                        
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="14">
+                            <div class="service-icon">
+                              <img src="items/all_in_one/Images/all_in_one_thumb_smaller.png.pagespeed.ce.wHkQZD2u5A.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>When the system has installed, why would you <i>still</i> need to install stuff?</h4>
+                                <p>  If your. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="15">
+                            <div class="service-icon">
+                              <img src="items/environment/Images/xenvironment_thumb_smaller.png.pagespeed.ic.XM0Tg-lMay.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Do something for the environment</h4>
+                                <p>  If your computer shuts itself  don't understand jsbdkjsbd. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="16">
+                            <div class="service-icon">
+                              <img src="items/report_bugs/Images/xreport_bugs_thumb_smaller.png.pagespeed.ic.ek5xBVSGRj.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Don't wait years for bugs to be solved; report and track them down</h4>
+                                <p>  If your computer shuts itself  don't under  jkdshfciodscd cdichdistand. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+
+
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="17">
+                            <div class="service-icon">
+                              <img src="items/reboot_all_the_time/Images/xreboot_all_the_time_thumb_smaller.png.pagespeed.ic.L3YdeNKIf5.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Are you tired of restarting your computer all the time?</h4>
+                                <p>  If your computer shuts itself  don't understand. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="18">
+                            <div class="service-icon">
+                              <img src="items/alive/Images/xalive_thumb_smaller.png.pagespeed.ic.Ma24qkchB3.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Let your old computer have a second life.</h4>
+                                <p>  If your computer shuts itself  don't understand. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+
+                        <!-- Start Service Icon 1 -->
+                        <div class="col-md-3 service-box service-center" data-animation="fadeIn" data-animation-delay="19">
+                            <div class="service-icon">
+                              <img src="items/amarok/Images/xamarok_thumb_smaller.png.pagespeed.ic.BNkjV14fW-.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4>Get a great music player.</h4>
+                                <p>  If your computer shuts itself  don't understand. <a title="Simple Tooltip" href="#" class="sh-tooltip" data-placement="left">Read More</a></p>
+                                
+                            </div>
+                        </div>
+                        <!-- End Service Icon 1 -->
+
+
+                        
+                        
+                        
+                        
+                        
+
+                    </div>
+                    <!-- End Services Icons -->
+                    
+                </div>
+            </div>
+            <!-- End Full Width Section 1 -->  
+       
+ 
+ 
+ 
+ 
+ 
+ 		
+ 
+ 
+ <?php require('footer.php'); ?>

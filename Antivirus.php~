@@ -1,0 +1,26 @@
+<?php
+ $title_index = " Get Linux | Home ";
+ $active = " active ";
+ require('header.php');
+ require('Style.css');
+ ?>
+<div class="hr1" style="margin-bottom:80px;"></div>
+ <div style="align:center">   <h2 style="align:center">   No need of Antivirus </h2></div>
+ <br>
+ <p>
+ 
+If your computer shuts itself down without asking you, if strange windows with text you don't understand and all 
+kinds of advertisements appear when you don't ask for them, if emails get sent to all your contacts without your 
+knowing it, then your computer probably has a virus. The main reason for this is because it runs Windows.
+Linux hardly has any viruses. And that's not like "Oh well, not very often, you know". That's like "If you've ever
+ heard of a real Linux virus, please tell me". Of course, a Linux virus is not impossible to get. However, 
+ Linux makes it very hard for this to happen, 
+ 
+ </p>
+ 
+
+
+
+
+<?php require('footer.php');?> 
+ 

@@ -1,0 +1,27 @@
+<?php
+ $title_index = " Get Linux | Home ";
+ require('header.php');
+ require('Style.css');
+ ?>
+<!-- Start Full Width Section 1 -->
+        	<div class="section" style="padding-top:60px; padding-bottom:30px; border-top:0; border-bottom:0; background:#fff">
+            	<div class="container">
+                
+                    <!-- Start Services Icons -->
+                	<div class="row">
+                        <!-- Start Service Icon 1 -->
+                    	 
+                     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+     <?php require('box.php'); ?>
+   
+              
+                </div>
+            </div>
+            <!-- End Full Width Section 1 -->
+         

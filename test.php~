@@ -1,0 +1,223 @@
+
+<?php
+ $title_index = " Get Linux | Home ";
+ require('header.php');
+ require('Style.css');
+ ?>
+ <link rel="stylesheet" href="css1/A.style.css.pagespeed.cf.ZXx07OT715.css"/>
+ <script type="text/javascript" src="../apis.google.com/js/plusone.js"></script>
+  <div class="hr1" style="margin-bottom:80px;"></div>
+
+<div id="items">
+<p>
+
+	<a href="items/viruses/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/viruses/Images/xviruses_thumb_smaller.png.pagespeed.ic.1k7PdS8e38.png" alt="viruses"/><br/>
+	</div>
+	<p>Forget about viruses.</p>
+	</div></a>
+	<a href="items/stability/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/stability/Images/xstability_thumb_smaller.png.pagespeed.ic.tH4DvLPaRa.png" alt="stability"/><br/>
+	</div>
+	<p>Is your system unstable?</p>
+	</div></a>
+	<a href="items/security/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/security/Images/xsecurity_thumb_smaller.png.pagespeed.ic.mAJKxMSIjH.png" alt="security"/><br/>
+	</div>
+	<p>Linux protects your computer.</p>
+	</div></a>
+	<a href="items/dollars/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/dollars/Images/xdollars_thumb_smaller.png.pagespeed.ic.uIa4GVdPya.png" alt="dollars"/><br/>
+	</div>
+	<p>Don't pay $100 for your operating system.</p>
+	</div></a>
+	<a href="items/crapware/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/crapware/Images/xcrapware_thumb_smaller.png.pagespeed.ic.RqeH2CE_CT.png" alt="crapware"/><br/>
+	</div>
+	<p>No more c**pware.</p>
+	</div></a>
+	<a href="items/freedom/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/freedom/Images/xfreedom_thumb_smaller.png.pagespeed.ic.C3yDbsVt4c.png" alt="freedom"/><br/>
+	</div>
+	<p>Freedom!</p>
+	</div></a>
+	<a href="items/all_in_one/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/all_in_one/Images/all_in_one_thumb_smaller.png.pagespeed.ce.wHkQZD2u5A.png" alt="all_in_one"/><br/>
+	</div>
+	<p>When the system has installed, why would you <i>still</i> need to install stuff?</p>
+	</div></a>
+	<a href="items/drivers/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/drivers/Images/xdrivers_thumb_smaller.png.pagespeed.ic.kuMSvthgAF.png" alt="drivers"/><br/>
+	</div>
+	<p>Forget about drivers.</p>
+	</div></a>
+	<a href="items/global_update/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/global_update/Images/xglobal_update_thumb_smaller.png.pagespeed.ic.Tylmzqmj-H.png" alt="global_update"/><br/>
+	</div>
+	<p>Update all your software with a single click.</p>
+	</div></a>
+	<a href="items/warez/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/warez/Images/xwarez_thumb_smaller.png.pagespeed.ic.rF36vm23h7.png" alt="warez"/><br/>
+	</div>
+	<p>Why copy software illegally if you can get it for free?</p>
+	</div></a>
+	<a href="items/search_software/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/search_software/Images/xsearch_software_thumb_smaller.png.pagespeed.ic.-WvYdBKjak.png" alt="search_software"/><br/>
+	</div>
+	<p>Need new software? Don't bother searching the web, Linux gets it for you.</p>
+	</div></a>
+	<a href="items/spatial_desktop/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/spatial_desktop/Images/xspatial_desktop_thumb_smaller.png.pagespeed.ic.-YymYL65SJ.png" alt="spatial_desktop"/><br/>
+	</div>
+	<p>Jump into the next generation of desktops.</p>
+	</div></a>
+	<a href="items/defragment/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/defragment/Images/xdefragment_thumb_smaller.png.pagespeed.ic.QQ0Dct7xfs.png" alt="defragment"/><br/>
+	</div>
+	<p>Does your digital life seem fragmented?</p>
+	</div></a>
+	<a href="items/window_managers/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/window_managers/Images/xwindow_managers_thumb_smaller.png.pagespeed.ic.P9lAUtJsSW.png" alt="window_managers"/><br/>
+	</div>
+	<p>Choose what your desktop looks like.</p>
+	</div></a>
+	<a href="items/old_and_sluggish/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/old_and_sluggish/Images/xold_and_sluggish_thumb_smaller.png.pagespeed.ic.wo0Vw3qBoc.png" alt="old_and_sluggish"/><br/>
+	</div>
+	<p>Why does your Windows get slower day after day?</p>
+	</div></a>
+	<a href="items/environment/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/environment/Images/xenvironment_thumb_smaller.png.pagespeed.ic.XM0Tg-lMay.png" alt="environment"/><br/>
+	</div>
+	<p>Do something for the environment.</p>
+	</div></a>
+	<a href="items/backdoors/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/backdoors/Images/xbackdoors_thumb_smaller.png.pagespeed.ic.ZAwM12Bl-c.png" alt="backdoors"/><br/>
+	</div>
+	<p>No back doors in your software.</p>
+	</div></a>
+	<a href="items/help/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/help/Images/xhelp_thumb_smaller.png.pagespeed.ic.cu5rHreMD-.jpg" alt="help"/><br/>
+	</div>
+	<p>Enjoy free and unlimited support.</p>
+	</div></a>
+	<a href="items/virtual_desktops/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/virtual_desktops/Images/xvirtual_desktops_thumb_smaller.png.pagespeed.ic.iC7uZtcVU5.jpg" alt="virtual_desktops"/><br/>
+	</div>
+	<p>Too many windows? Use workspaces.</p>
+	</div></a>
+	<a href="items/categories/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/categories/Images/xcategories_thumb_smaller.png.pagespeed.ic.uFsIEd4xNj.png" alt="categories"/><br/>
+	</div>
+	<p>No big mess in your start menu.</p>
+	</div></a>
+	<a href="items/report_bugs/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/report_bugs/Images/xreport_bugs_thumb_smaller.png.pagespeed.ic.ek5xBVSGRj.png" alt="report_bugs"/><br/>
+	</div>
+	<p>Don't wait years for bugs to be solved; report and track them down.</p>
+	</div></a>
+	<a href="items/reboot_all_the_time/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/reboot_all_the_time/Images/xreboot_all_the_time_thumb_smaller.png.pagespeed.ic.L3YdeNKIf5.png" alt="reboot_all_the_time"/><br/>
+	</div>
+	<p>Are you tired of restarting your computer all the time?</p>
+	</div></a>
+	<a href="items/alive/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/alive/Images/xalive_thumb_smaller.png.pagespeed.ic.Ma24qkchB3.png" alt="alive"/><br/>
+	</div>
+	<p>Let your old computer have a second life.</p>
+	</div></a>
+	<a href="items/free_games/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/free_games/Images/xfree_games_thumb_smaller.png.pagespeed.ic.gG3Gv5jM4T.png" alt="free_games"/><br/>
+	</div>
+	<p>Play hundreds of games for free.</p>
+	</div></a>
+	<a href="items/other_countries/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/other_countries/Images/xother_countries_thumb_smaller.png.pagespeed.ic.6O6YwrdDVf.png" alt="other_countries"/><br/>
+	</div>
+	<p>Help other countries, and your own.</p>
+	</div></a>
+	<a href="items/gaim_im_services/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/gaim_im_services/Images/xgaim_im_services_thumb_smaller.png.pagespeed.ic.TLMRevLG5w.png" alt="gaim_im_services"/><br/>
+	</div>
+	<p>Use MSN, AIM, ICQ, Jabber, with a single program.</p>
+	</div></a>
+	<a href="items/amarok/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/amarok/Images/xamarok_thumb_smaller.png.pagespeed.ic.BNkjV14fW-.png" alt="amarok"/><br/>
+	</div>
+	<p>Get a great music player.</p>
+	</div></a>
+	<a href="items/weather/index415a.html?lang=">
+	<div class="item">
+	<div class="item-image">
+	<img src="items/weather/Images/xweather_thumb_smaller.png.pagespeed.ic.J4KcAy_FsY.png" alt="weather"/><br/>
+	</div>
+	<p>Keep an eye on the weather.</p>
+	</div></a></p>
+</div>
+
+                    <div class="hr1" style="margin-bottom:80px;"></div>
+                    <div class="hr1" style="margin-bottom:80px;"></div>
+
+                    <div class="hr1" style="margin-bottom:80px;"></div>
+                                        <div class="hr1" style="margin-bottom:80px;"></div>
+                    <div class="hr1" style="margin-bottom:80px;"></div>
+
+<?php require('footer.php');?>
+
+
+
+

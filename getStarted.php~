@@ -1,0 +1,43 @@
+<?php
+ $title_index = " Get Linux | One Day with Linux ";
+ $active = " active ";
+ require('header.php');
+ require('Style.css');
+ ?>
+<style type="text/css">
+  h4 { padding: 80px;
+         line-height: 150%;
+         font-family: arial;
+         font-size: 21px;
+         letter-spacing: 1.3px;
+         color: lightcoral;
+         }
+    h1 {     
+         color: green;
+         text-align: center;
+     }  
+  
+  </style>
+  <div class="hr1" style="margin-bottom:40px;"></div>
+ 
+ <h1 style="font-size:45px;"> One day with Linux (A Screenshot Tour) </h1>
+<h4>
+ 
+ Now you're probably at the point where you're half-convinced by all these arguments, thinking that Linux seems to be a pretty neat thing to at least try, but you're kind of afraid to make the big jump. 
+ How do you know one of the tools/applications you use every day won't be lacking with Linux? 
+ Will you spend all that energy backing up your data, installing a new system. <br/> only to find that you really can't live 
+ with it because it's missing feature X?
+
+I do believe trying out a Live CD should help you determine whether Linux is really made for you or whether you're not
+ ready yet. However, even before that, I thought it would be good to show you a few screenshots of a typical day using Linux, with a few different pieces of sofware, just to show you how it's like, let you visit this new house for a couple of hours before you decide to rent it. After all, you spend quite a bit of time with your computer everyday, you might as well make the right decision!
+
+This is a screenshot tour taking the example of the Ubuntu Linux flavor. Of course all the colors, wallpapers, themes, etc., are very easily customizable! What you will see here is merely the system default.
+
+When you enter your Linux desktop for the first time, you will see something like this:
+ 
+ 
+ 
+</h4>
+
+<div class="hr1" style="margin-bottom:80px;"></div>
+<?php require('footer.php'); ?>

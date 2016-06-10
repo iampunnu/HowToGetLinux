@@ -1,0 +1,17 @@
+
+<?php     
+   
+   function boxDemo($link,$image,$content) {
+
+               <div class="col-md-4 service-box service-icon-left">
+                            <div class="service-icon">
+                                
+                            </div>
+                            <div class="service-content">
+                              <a href= "<?php echo $link; ?>" ><img src="<?php echo $image; ?>" >  </a>
+                            <p><a href= <?php echo $link; ?> ><?php echo $content; ?> </a></p>
+                            </div>
+                        </div>
+  }
+
+?>

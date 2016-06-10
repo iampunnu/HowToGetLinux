@@ -1,0 +1,10 @@
+
+
+ <?php
+ function display($title1="Title", $discription="Discription") {
+                   echo "<h1>";
+                   echo $title1;
+                   echo "</h1>";
+                 // echo $discription; 
+               }
+?>
